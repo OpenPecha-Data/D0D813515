@@ -1925,20 +1925,20 @@ annotations:
     reference: ''
     span:
       start: 373457
-      end: 374802
+      end: 374801
     note_ref: 37e49d6adecb461a985bd05d45bf9ccc
   71108a1eb6c449f2abdafd3552d9f030:
     imgnum: 746
     reference: ''
     span:
-      start: 374804
-      end: 376192
+      start: 374803
+      end: 376191
     note_ref: 37e49d6adecb461a985bd05d45bf9ccc
   a9eb2a4522cd44998f715c4452be7814:
     imgnum: 747
     reference: ''
     span:
-      start: 376194
+      start: 376193
       end: 377564
     note_ref: 37e49d6adecb461a985bd05d45bf9ccc
   e1aebd49e8d24436a30e58581ea322a0:
